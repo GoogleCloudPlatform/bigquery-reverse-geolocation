@@ -1,0 +1,71 @@
+This file contains the copyright information for the data "San Diego" data sets.
+
+Data Set: "Freeway Data - 30 sec."
+Original Data Source: California DOT (Caltrans) Performance Measurement System (PeMS)
+Copyright owner: Public domain
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+Data Set: "Freeway Data - 5 min."
+Original Data Source: California DOT (Caltrans) Performance Measurement System (PeMS)
+Copyright owner: Public domain
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+Data Set: "Freeway Data - Daily"
+Original Data Source: California DOT (Caltrans) Performance Measurement System (PeMS)
+Copyright owner: Public domain
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+Data Set: "Freeway Data - Hourly"
+Original Data Source: California DOT (Caltrans) Performance Measurement System (PeMS)
+Copyright owner: Public domain
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+Data Set: "Freeway Detector Configuration"
+Original Data Source: California DOT (Caltrans) Performance Measurement System (PeMS)
+Copyright owner: Public domain
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+Data Set: "Freeway  Incident and Lane Closure Detector Locations"
+Original Data Source: California DOT (Caltrans) Performance Measurement System (PeMS)
+Copyright owner: Public domain
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+Data Set: "Freeway incidents"
+Original Data Source: California Highway Patrol (CHP)
+Copyright owner: Public domain
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+Data Set: "Freeway Lane Closures"
+Original Data Source: California DOT (Caltrans)  Lane Closure System
+Copyright owner: Public domain
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+Data Set: "GPS Trips Dataset"
+Original Data Source: ALK Co-Pilot
+Copyright owner: ALK Technologies
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+Data Set: "GPS Trips Gridded Dataset"
+Original Data Source: ALK Co-Pilot
+Copyright owner: ALK Technologies
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+Data Set: "GPS Trips - One point per link"
+Original Data Source: ALK Co-Pilot
+Copyright owner: ALK Technologies
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+Data Set: "Grip Map Data"
+Original Data Source: ALK Co-Pilot
+Copyright owner: ALK Technologies
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+Data Set: "Hourly weather data"
+Original Data Source: National Weather Service
+Copyright owner: Public domain
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)
+
+Data Set: "Maps of Coverage Area"
+Original Data Source: AlK Technologies (Figure 4 only)
+Copyright owner: AlK Technologies (Figure 4 only)
+License: Creative Commons Attribution-ShareAlike 3.0 Unported license (http://creativecommons.org/licenses/by-sa/3.0/legalcode)

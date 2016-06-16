@@ -1,0 +1,12 @@
+[
+{"name": "VehicleID", "type": "integer", "mode": "required" },
+{"name": "UTCTime", "type": "timestamp", "mode": "required" },
+{"name": "Offset", "type": "float", "mode" : "nullable"},
+{"name": "Address", "type": "string", "mode" : "nullable"},
+{"name": "Zipcode", "type": "string", "mode" : "nullable"},
+{"name": "Speed", "type": "float", "mode" : "nullable"},
+{"name": "Bearing", "type": "float", "mode" : "nullable"},
+{"name": "Elevation", "type": "float", "mode" : "nullable"},
+{"name": "Latitude", "type": "float", "mode" : "required"},
+{"name": "Longitude", "type": "float", "mode" : "required"}
+]
