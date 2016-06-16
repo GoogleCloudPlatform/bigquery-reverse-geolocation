@@ -9,8 +9,8 @@ processed and transformed data for further analysis.
 
 The instructions in this readme show you how to run the tutorial by using
 Google Cloud Shell with Docker. You can find a version of this tutorial that
-uses your own development environment, without Docker, on the Google Cloud
-Platform website.
+uses your own development environment, without Docker, [on the Google Cloud
+Platform website](https://cloud.google.com/solutions/reverse-geocoding-geolocation-telemetry-cloud-maps-api).
 
 Cloud Shell provides a ready runtime environment and can save you several steps
 and some time. However, Cloud Shell times out after 60 minutes of inactivity
